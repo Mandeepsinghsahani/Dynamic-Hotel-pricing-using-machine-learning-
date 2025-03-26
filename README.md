@@ -1,22 +1,6 @@
-# Script Title
-<!--Remove the below lines and add yours -->
-A short description about the script must be mentioned here.
+# Dynamic Pricing for Hotels using Machine Learning
 
-### Prerequisites
-<!--Remove the below lines and add yours -->
-Modules required to be able to use the script successfully
-and how to install them.
-(Including a `requirements.txt` file will work.)
+## Project Overview
+This project explores the application of machine learning models, specifically Random Forest and XGBoost, to develop an optimized pricing strategy for predicting the Average Daily Rate (ADR) in hotels.
 
-### How to run the script
-<!--Remove the below lines and add yours -->
-Steps on how to run the script along with suitable examples.
-
-### Screenshot/GIF showing the sample use of the script
-<!--Remove the below lines and add yours -->
-Add a jpeg/png/gif file here.
-
-## *Author Name*
-<!--Remove the below lines and add yours -->
-The name of the author of the code goes here.
-If you have a web site or a Git user name, feel free to link.
+## Project Structure
