@@ -20,7 +20,6 @@ This project explores the application of machine learning models, specifically R
 ### Prerequisites
 1. Python 3.8 or higher
 2. Jupyter Notebook
-3. Required libraries listed in `requirements.txt`
 
 ### Installation
 1. Clone the repository:
@@ -28,18 +27,6 @@ This project explores the application of machine learning models, specifically R
    git clone https://github.com/Mandeepsinghsahani/Dynamic-Hotel-pricing-using-machine-learning-.git
    cd hotel_dynamic_pricing
    ```
-
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Running the Project
-1. **Data Preprocessing**: Run the `1_data_preprocessing.ipynb` notebook to preprocess the data.
-2. **Exploratory Data Analysis**: Run the `2_exploratory_data_analysis.ipynb` notebook to perform EDA.
-3. **Feature Engineering**: Run the `3_feature_engineering.ipynb` notebook to create new features.
-4. **Model Training**: Run the `4_model_training.ipynb` notebook to train the models.
-5. **Model Evaluation**: Run the `5_model_evaluation.ipynb` notebook to evaluate the models.
 
 ## Data Preprocessing
 In this step, the dataset is loaded, missing values are handled, and initial preprocessing is performed. The processed data is saved for further analysis.
